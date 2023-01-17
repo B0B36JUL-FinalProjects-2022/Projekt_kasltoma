@@ -1,0 +1,7 @@
+name = "StressDetection"
+uuid = "90fdec5b-a384-4408-9c59-eea3316aa52c"
+authors = ["Tomáš Kasl"]
+version = "0.1.0"
+
+[compat]
+julia = "1.8"
